@@ -1,0 +1,12 @@
+PODS:
+  - ASHorizontalScrollView (1.5)
+
+DEPENDENCIES:
+  - ASHorizontalScrollView (~> 1.5)
+
+SPEC CHECKSUMS:
+  ASHorizontalScrollView: eaa3517b040611b04444f3de2a2e08cf7f7f6368
+
+PODFILE CHECKSUM: c68f5dbca883791cc621d2e65499272f9ee8a05d
+
+COCOAPODS: 1.2.0
